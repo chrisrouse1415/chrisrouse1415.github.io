@@ -1,4 +1,4 @@
-baseURL = 'https://chrisrouse1415.github.io/'
+baseURL = 'https://chrisrouse1415.github.io/public/'
 languageCode = 'en-uk'
 title = 'Welcome'
 theme = 'ananke' 
