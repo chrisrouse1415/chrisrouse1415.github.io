@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome</title>
-    <link>https://chrisrouse1415.github.io/</link>
+    <link>https://chrisrouse1415.github.io/public/</link>
     <description>Recent content on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 13 Feb 2023 20:04:29 +0000</lastBuildDate><atom:link href="https://chrisrouse1415.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 20:04:29 +0000</lastBuildDate><atom:link href="https://chrisrouse1415.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://chrisrouse1415.github.io/posts/my-first-post/</link>
+      <link>https://chrisrouse1415.github.io/public/posts/my-first-post/</link>
       <pubDate>Mon, 13 Feb 2023 20:04:29 +0000</pubDate>
       
-      <guid>https://chrisrouse1415.github.io/posts/my-first-post/</guid>
+      <guid>https://chrisrouse1415.github.io/public/posts/my-first-post/</guid>
       <description>Introduction Here is some text</description>
     </item>
     
